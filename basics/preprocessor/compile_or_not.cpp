@@ -7,7 +7,7 @@ void foo()
 
 int main()
 {
-# define MY_NAME "Alex"
-        foo();
-        return 0;
+    # define MY_NAME "Alex"
+    foo();
+    return 0;
 }
